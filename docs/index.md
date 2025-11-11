@@ -1,13 +1,13 @@
 # Rbwatson: portfolio
 
-Welcome. This site collects small web tools and clear documentation.
+Welcome. Here is a collection of my favorite API topics.
 
 ---
 
 ## Featured projects
 
-- portfolio-example: Minimal example site and docs for showcasing projects and small APIs.
-- API data: A small JSON API at `api/new-db.json` for demos and local testing.
+- portfolio-example: This is just one of many new samples.
+    - The API in this example will have more resources as time goes on.
 
 Explore the repository to view source, documentation, and demo data.
 
